@@ -14,7 +14,7 @@ I am currently a Ph.D. candidate at the University of São Paulo. :man_student:
 
 Together with my advisor, we are developing a project to automate end-to-end machine learning pipelines. This journey has been very challenging and fruitful! My research interests are machine learning, AutoML, meta-learning, optimization for machine learning, computational Mathematics, and Bioinformatics. :man_scientist:
 
-I like to build things with Machine Learning, distributed systems, SQL, Python, modern backend APIs, and modern frontend frameworks. :man_technologist:
+I like to build things with Machine Learning, distributed systems, Python, SQL, modern backend/frontend frameworks. :man_technologist:
 
 You can find me on: 📫
  - My website: [ealcobaca.github.io](https://ealcobaca.github.io)
