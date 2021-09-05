@@ -18,7 +18,7 @@ I like to build things with Machine Learning, distributed systems, SQL, Python, 
 
 You can find me on: 📫
  - My website: [ealcobaca.github.io](https://ealcobaca.github.io)
- - GitHub as [@ealcobaca](https://github.com/ealcobaca/ealcobaca)  (you are here)
+ - GitHub as [@ealcobaca](https://github.com/ealcobaca)  (you are here)
  - [LinkedIn]() 
 
 <p align="center">
