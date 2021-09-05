@@ -19,7 +19,12 @@ I like to build things with Machine Learning, distributed systems, SQL, Python, 
 You can find me on: 📫
  - My website: [ealcobaca.github.io](https://ealcobaca.github.io)
  - GitHub as [@ealcobaca](https://github.com/ealcobaca)  (you are here)
- - [LinkedIn]() 
+ - [LinkedIn]()
+ 
+ May the force be with you! <img width="35px" src="https://img.icons8.com/color/64/000000/r2-d2.png"/> <img width="35px" src="https://img.icons8.com/color/48/000000/c-3po.png"/> <img width="35px" src="https://img.icons8.com/color/24/000000/chewbacca.png"/> <img width="35px" src="https://img.icons8.com/color/48/000000/lightsaber.png"/>
+ 
+ <br>
+ <br>
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ealcobaca&show_icons=true&theme=default&hide=issues,contribs&count_private=true&include_all_commits=true)](https://github.com/jhosoume/" />
