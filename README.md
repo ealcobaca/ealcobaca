@@ -1,4 +1,32 @@
-### Hi there 👋
+<p align="center">
+  <img width="500px" src="https://cdn117.picsart.com/217460931001201.gif">
+</p>
+
+### Hi there! I am Edesio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+I'm a Data Scientist from Brazil. :brazil:
+
+I have been researching and developing tools for Machine Learning and AutoML. :nerd_face:
+
+I am currently a Ph.D. candidate at the University of São Paulo. :man_student:
+
+Together with my advisor, we are developing a project to automate end-to-end machine learning pipelines. This journey has been very challenging and fruitful! My research interests are machine learning, AutoML, meta-learning, optimization for machine learning, computational Mathematics, and Bioinformatics. :man_scientist:
+
+I like to build things with Machine Learning, distributed systems, SQL, Python, modern backend APIs, and modern frontend frameworks. :man_technologist:
+
+You can find me on: 📫
+ - My website: [ealcobaca.github.io](https://ealcobaca.github.io)
+ - GitHub as [@ealcobaca](https://github.com/ealcobaca/ealcobaca)  (you are here)
+ - [LinkedIn]() 
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ealcobaca&show_icons=true&theme=default&hide=issues,contribs&count_private=true&include_all_commits=true)](https://github.com/jhosoume/" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ealcobaca&theme=default&hide=verilog,postscript&langs_count=8&layout=compact&count_private=true)](https://github.com/jhosoume/" />
+</p>
+
 
 <!--
 **ealcobaca/ealcobaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
