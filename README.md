@@ -8,15 +8,15 @@
 
 I'm a Data Scientist from Brazil. :brazil:
 
-I have been researching and developing tools for Machine Learning and AutoML. :nerd_face:
+I have been researching and developing tools for machine learning and AutoML. :nerd_face:
 
 I am currently a Ph.D. candidate at the University of São Paulo. :man_student:
 
-Together with my advisor, we are developing a project to automate end-to-end machine learning pipelines. This journey has been very challenging and fruitful! My research interests are machine learning, AutoML, meta-learning, optimization for machine learning, computational Mathematics, and Bioinformatics. :man_scientist:
+Together with my advisor, we are developing a project to automate end-to-end machine learning pipelines. This journey has been very challenging and fruitful! My research interests are machine learning, AutoML, meta-learning, optimization for machine learning, computational mathematics, and bioinformatics. :man_scientist:
 
-I like to build things with Machine Learning, distributed systems, Python, SQL, modern backend/frontend frameworks. :man_technologist:
+I like to build things with machine learning, distributed systems, Python, SQL, modern backend/frontend frameworks. :man_technologist:
 
-You can find me on: 📫
+How to reach me: 📫
  - My website: [ealcobaca.github.io](https://ealcobaca.github.io)
  - GitHub as [@ealcobaca](https://github.com/ealcobaca)  (you are here)
  - [LinkedIn]()
