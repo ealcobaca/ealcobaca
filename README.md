@@ -26,13 +26,14 @@ How to reach me: 📫
  <br>
  <br>
 
+<!--
 <p align="center">
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ealcobaca&show_icons=true&theme=default&hide=issues,contribs&count_private=true&include_all_commits=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ealcobaca&theme=default&hide=verilog,postscript&langs_count=8&layout=compact&count_private=true"/>
 </div>
 </p>
-
+-->
 
 <!--
 <p align="center">
